@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aryanaryashrestha
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Data SCience
+- 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on learning for now.
 - 📫 How to reach me: You can reach me on my mail: aryashrestha1080@gmail.com
 
